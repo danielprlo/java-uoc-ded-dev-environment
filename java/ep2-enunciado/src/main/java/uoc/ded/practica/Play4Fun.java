@@ -1,5 +1,7 @@
 package uoc.ded.practica;
 
+import uoc.ei.tads.Iterador;
+
 /**
  * Definición del TAD de gestión de la plataforma de juegos para tablets y móviles
  */
