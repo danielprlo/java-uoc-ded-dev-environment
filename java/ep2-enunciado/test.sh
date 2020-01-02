@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BASE=`pwd`
-TEST=uoc.ded.practica.MyLimonTest
+TEST=uoc.ded.practica.Play4FunPRATest
 LIBS=$BASE/lib/tads_cast.jar:$BASE/lib/junit-4.12.jar:$BASE/lib/hamcrest-core-1.3.jar:$BASE/class/main/java/:$BASE/class/test/java/:.
 #OPTS="-Xlint:unchecked -encoding UTF-8 -g"
 OPTS="-encoding UTF-8 -g"
